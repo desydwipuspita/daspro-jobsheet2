@@ -5,7 +5,7 @@ public class MyFirstJava03  {
         System.out.println("--------------------------------------------------------");  
         System.out.println("-- DATA MAHASISWA JURUSAN TEKNOLOGI INFORMASI POLINEMA--");  
         //System.out.println("\nsaya adalah Mahasiswa Prodi Sistem Informasi Bisnis");  
-        System.out.println("Nama       : Desy Dwi Puspita");  
+        System.out.println("Nama       : Desy ");  
         System.out.println("NIM        : 244107060145");  
         System.out.println("Kelas      : SIB 1A");  
         System.out.println("No Absen   : 3");  
